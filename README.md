@@ -1,5 +1,5 @@
 <h2> Hi 👋🏼 I'm Dinesh!</h2>
-<img align='right' src="https://user-images.githubusercontent.com/13212227/216361867-d352f366-48e4-4085-8c14-266655973557.png" width="200">
+<img align='right' src="#" width="200">
 <p><em>BugBounty hunter and Devops and H4cker <img src="https://github.com/hahwul/hahwul/assets/13212227/af41f7bf-5b41-42dd-aed3-8560a6e3187d" width="50"><br><br>
   ‘SecurityPanda’ I am using this sudo name.
 </em></p>
